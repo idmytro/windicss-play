@@ -4,6 +4,6 @@
     "start": "./node_modules/.bin/windicss 'index.html' -o windi.css -f windi.config.js"
   },
   "dependencies": {
-    "windicss": "2.5.4"
+    "windicss": "2.5.5"
   }
 }
