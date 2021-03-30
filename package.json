@@ -1,7 +1,7 @@
 {
   "name": "windicss-prefixer-false",
   "scripts": {
-    "start": "./node_modules/.bin/windicss 'src/*.html' -o windi.css"
+    "start": "./node_modules/.bin/windicss 'src/*.html' -o windi.css -f windi.config.js"
   },
   "dependencies": {
     "windicss": "2.5.5"
